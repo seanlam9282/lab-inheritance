@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\obj\Debug\lab inheritance.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\obj\Debug\lab inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\obj\Debug\lab inheritance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\bin\Debug\employees.txt
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\bin\Debug\lab inheritance.exe.config
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\bin\Debug\lab inheritance.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\bin\Debug\lab inheritance.pdb
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\obj\Debug\lab inheritance.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab2\lab inheritance\lab inheritance\obj\Debug\lab inheritance.pdb
